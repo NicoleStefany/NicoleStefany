@@ -1,6 +1,6 @@
 ### Olá meu nome é Nicole Stefany, atualmente sou estudante do curso de Programação da Digital House 👩‍💻
 
-Aqui estão minhas redes sociais
+### Aqui estão minhas redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-stefany-da-silva-b3b73a185/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicole.stefany2/)
 
